@@ -41,13 +41,13 @@
           <mxGeometry x="580" y="240" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="a8LPlS1vLbkGgQtI_isi-18" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:PMingLiU;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;品牌&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="430" width="140" height="70" as="geometry" />
+          <mxGeometry x="750" y="360" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="a8LPlS1vLbkGgQtI_isi-19" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:PMingLiU;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;价格&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="550" width="140" height="70" as="geometry" />
+          <mxGeometry x="490" y="550" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="a8LPlS1vLbkGgQtI_isi-20" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:PMingLiU;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;型号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="550" width="140" height="70" as="geometry" />
+          <mxGeometry x="750" y="540" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
